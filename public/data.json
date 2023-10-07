@@ -1,0 +1,65 @@
+[
+    {
+      "image": "https://i.ibb.co/gRPcSmb/700012-a499-9.jpg",
+      "course_name": "Introduction to C Programming",
+      "details": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+      "price": "$49.99",
+      "credit": 3
+    },
+    {
+      "image": "https://i.ibb.co/rpR3R7R/8464794-1606298954-algo.jpg",
+      "course_name": "Introduction to Algorithms",
+      "details": "An algorithm is a precise set of instructions for solving a problem or completing a task, vital in computing and daily life.",
+      "price": "$29.99",
+      "credit": 10
+    },
+    {
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+      "course_name": "Introduction to C++ for DSA",
+      "details": "C++ is a powerful programming language known for its efficiency and versatility, widely used in software development and system programming.",
+      "price": "$79.99",
+      "credit": 15
+    },
+    {
+      "image": "https://cdn.educba.com/academy/wp-content/uploads/2019/12/what-is-data-structure.jpg",
+      "course_name": "Basic Data Structures",
+      "details": "Data structures organize and store data efficiently, crucial in computer science for managing information in various applications, from databases to algorithms..",
+      "price": "$59.99",
+      "credit": 8
+    },
+    {
+      "image": "https://i.ibb.co/xqP6s8g/images-q-tbn-ANd9-Gc-RVDVZGpgea0-6-Fq-M9-Lt-LE-LJw-coq-H2-M14i-S6-Eq-Fn-HF4eqp-JM5iyh-HJHi-S0-Qez-LZ.jpg",
+      "course_name": "Introduction to OOP Python",
+      "details": "Python is a popular programming language known for its simplicity and readability, extensively used for data analysis, machine learning, and automation..",
+      "price": "$69.99",
+      "credit": 6
+    },
+    {
+      "image": "https://i.ibb.co/D7rqsHn/monitor-with-message-software-engineering-and-hands-on-a-keyboard-J3-YFWD.jpg",
+      "course_name": "Software Engineering",
+      "details": "Software engineering is the systematic approach to designing, developing, and maintaining software, ensuring its quality and reliability..",
+      "price": "$59.99",
+      "credit": 20
+    },
+    {
+      "image": "https://www.triaxiomsecurity.com/wp-content/uploads/2018/08/2000px-AWS_Simple_Icons_AWS_Cloud.svg.png",
+      "course_name": "AWS, Cloud Computing",
+      "details": "AWS (Amazon Web Services) provides cloud computing services, enabling businesses to scale, innovate, and manage applications effectively..",
+      "price": "$89.99",
+      "credit":13
+    },
+    {
+      "image": "https://i.ibb.co/3mmvhc8/images-q-tbn-ANd9-Gc-Rw-URBu-H1kn-R3b-Lv-Eyfxox-Ksus0-UEl-Mhpt-XI9-O6-B9j-Wcao-Dqgqiyvkfl2-RSy-MVt8w.jpg",
+      "course_name": "Database (MySQL)",
+      "details": "MySQL is an open-source relational database management system known for its speed, reliability, and versatility in applications.",
+      "price": "$79.99",
+      "credit": 16
+    },
+    {
+      "image": "https://i.ibb.co/LhW9Bdj/images-q-tbn-ANd9-Gc-QSodyh9-Ko-GPY2d-RFXOl-F7-Jdp-THjf-JYV0-Abhqaohuq1r-WLKVJt2g-LUVz-S5gv08-QScy2.jpg",
+      "course_name": "Problem-Solving Part",
+      "details": "Problem-solving is a cognitive process where individuals analyze, strategize, and implement solutions to overcome challenges and achieve goals..",
+      "price": "$49.99",
+      "credit": 18
+    }
+  ]
